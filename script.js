@@ -39,3 +39,4 @@ buttons.forEach(button => {
     setInterval(() => moveButtonRandomly(button), 2000);  
 });
 
+
