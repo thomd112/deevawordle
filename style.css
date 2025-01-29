@@ -30,7 +30,9 @@
     text-align: center;
   }
    
-  
+ h3{
+    text-emphasis: none;
+ }
   
   .wrapper {
     min-height: var(--wrapper-height);
