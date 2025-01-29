@@ -42,6 +42,3 @@ buttons.forEach(button => {
 });
 
 
-if (targetElement.classList.contains("hover")){
-	targetElement.style.backgroundColor = "red"
-} 
