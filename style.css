@@ -7,7 +7,7 @@
     display: none !important;
   }
   
-  /* Custom Properties (Variables) */
+ 
   :root {
     --color-bg: #e9e3d9;
     --color-text-main: #000000;
@@ -20,7 +20,7 @@
 
 
 
-  /* Base Styles */
+ 
   body {
     background-color: var(--color-bg);
     font-family: "Elsie Swash Caps", serif;
